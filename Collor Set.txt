@@ -1,0 +1,3 @@
+Color1: e39263
+Color2: f3cebb
+Color3: e18f60
